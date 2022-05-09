@@ -1,2 +1,2 @@
 # Pacman
-My files contributing to coding paceman
+My files contributing to coding Pacman
